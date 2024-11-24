@@ -10,3 +10,6 @@ Testing set: 3,000 images
 Validation set: 3,000 images
 
 The dataset was processed and used to train a Convolutional Neural Network (CNN) model, which is well-suited for image classification tasks. By leveraging the CNN model's ability to extract hierarchical features such as edges, textures, and shapes, the system can effectively distinguish between different vegetable types. This dataset aids in automating the classification process, which could be applied in agriculture, supermarkets, or food quality assurance systems.
+
+# Data Link:
+https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
