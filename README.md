@@ -13,4 +13,5 @@ The dataset was processed and used to train a Convolutional Neural Network (CNN)
 
 # Data Link:
 https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
-# [Vegetable Categories](https://drive.google.com/file/d/15qvjl92lzerWpOx03wD7xgoNiDem5TS2/view?usp=drive_link)
+# [Vegetable Categories]
+https://drive.google.com/file/d/15qvjl92lzerWpOx03wD7xgoNiDem5TS2/view?usp=drive_link
