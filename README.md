@@ -15,3 +15,5 @@ The dataset was processed and used to train a Convolutional Neural Network (CNN)
 https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
 # Vegetable Categories
 ![Vegetable Categories](https://drive.google.com/uc?export=view&id=15qvjl92lzerWpOx03wD7xgoNiDem5TS2)
+# Model Loss Visualize
+![Model Loss](https://drive.google.com/uc?export=view&id=1abcDxyz12345)
