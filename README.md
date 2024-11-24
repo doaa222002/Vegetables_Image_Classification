@@ -19,9 +19,9 @@ https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset
 ![Model Loss](https://drive.google.com/uc?export=view&id=1j4Bo6riHKQwR4RZS0qrMfCh180c6KiEZ)
 # Model Accuracy Visualize
 ![Model Accuracy](https://drive.google.com/uc?export=view&id=1aoe0By4J55Lwar3olzIS4u628dHLDvJ2)
-# Test Evalution
+# Train Evaluation
 ![Test Accuracy](https://drive.google.com/uc?export=view&id=1u0czdKwI3IUMEAe7VySbd4Sct6ZZ0zmX)
-# Train Evalution
+# Test Evaluation
 ![Train Accuracy](https://drive.google.com/uc?export=view&id=19laIGlzdBM846NwhpXi5F1w7Wu1Fk1lN)
 
 
